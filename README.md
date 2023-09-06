@@ -1,7 +1,7 @@
 # <u>Ocular Disease Intelligent Recgonition (ODIR)</u>
 
 
-Harnessing the power of Deep Learning, our project is dedicated to assist medical professionsals and institutions in the field of ophthalmology, detect ocular diseases with reamrkable precision and accuracy.
+Harnessing the power of Deep Learning, our project is dedicated to assist medical professionals and institutions in the field of ophthalmology, detect ocular diseases with remarkable precision and accuracy.
 
 
 Although I and my team are newcomers to this vast field of Deep Learning, we take pride in our achievement of developing an effective CNN (Convolutional Neural Network) model that yields high accuracy and promising results.
