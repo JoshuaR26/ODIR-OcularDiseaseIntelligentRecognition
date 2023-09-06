@@ -11,7 +11,7 @@ In the repository, you will find various different versions of `.ipynb` notebook
 One of the major challenges we faced was the insufficiency of image data for training. However, we overcame the challenge by implementing *Data Augmentation* , which itself is a intriguing concept and we look forward to delve deeper into in the near future.
 
 
-Now of course, the project plan is not to stop at cataract. Our final goal is exapnding our model's capabillities to predict other ocular diseases as well. We are currently enhancing our knowledge by exposing ourselves to more methodolgies that can tackle this challenge more efficiently with greater precision.
+Now of course, the project plan is not to stop at cataract. Our final goal is expanding our model's capabilities to predict other ocular diseases as well. We are currently enhancing our knowledge by exposing ourselves to more methodologies that can tackle this challenge more efficiently with greater precision.
 
 
 Our heartfelt gratitude goes to our faculty, Mr. Karthikeyan N, who pushed us out of our comfort zone to venture into this field, and guided us every step on our journey.
