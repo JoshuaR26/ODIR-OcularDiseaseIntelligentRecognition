@@ -16,14 +16,15 @@ Now of course, the project plan is not to stop at cataract. Our final goal is ex
 
 Our heartfelt gratitude goes to our faculty, Mr. Karthikeyan N, who pushed us out of our comfort zone to venture into this field, and guided us every step on our journey.
 
-**DISCLAIMER:**
+### **DISCLAIMER:**
 
 *While our CNN model aids in cataract detection, it is not a substitute for professional medical advice. Please consult a qualified healthcare provider for a comprehensive eye examination and diagnosis.*
 
-**DATASET:**
+### **DATASET:**
 
 - https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k 
 - https://www.kaggle.com/datasets/jr2ngb/cataractdataset
+
 ### The Team:
 - Joshua S Raju, *Project Lead*
 -  Md Rameez Haider
