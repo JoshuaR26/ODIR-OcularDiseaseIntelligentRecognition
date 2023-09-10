@@ -6,7 +6,7 @@ Harnessing the power of Deep Learning, our project is dedicated to assist medica
 
 Although I and my team are newcomers to this vast field of Deep Learning, we take pride in our achievement of developing an effective CNN (Convolutional Neural Network) model that yields high accuracy and promising results.
 
-In the repository, you will find various different versions of `.ipynb` notebooks. The one in interest would be `ODIR_v3(cataract).ipynb`. As the name suggests, this model is trained to predict cataract. Cataract being one of most common vision impairment, affecting millions of lives around the world. If the condition is left untreated, the victim may suffer severe vison loss.
+In the repository, you will find different versions of `.ipynb` notebooks. The one in interest would be `ODIR_v3(cataract).ipynb`. As the name suggests, this model is trained to predict cataract. Cataract being one of most common vision impairment, affecting millions of lives around the world. If the condition is left untreated, the victim may suffer severe vison loss.
 
 One of the major challenges we faced was the insufficiency of image data for training. However, we overcame the challenge by implementing *Data Augmentation* , which itself is a intriguing concept and we look forward to delve deeper into in the near future.
 
@@ -28,5 +28,5 @@ Our heartfelt gratitude goes to our faculty, Mr. Karthikeyan N, who pushed us ou
 ## The Team:
 - Joshua S Raju, *Project Lead*
 -  Md Rameez Haider
--  Shubham Yadav
+-  ![Shubham Yadav](https://github.com/offshujr04)
 -  Anton K Sam
