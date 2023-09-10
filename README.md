@@ -27,6 +27,6 @@ Our heartfelt gratitude goes to our faculty, Mr. Karthikeyan N, who pushed us ou
 
 ## The Team:
 - Joshua S Raju, *Project Lead*
--  Md Rameez Haider
+- [Md Rameez Haider](https://github.com/haiderameez)
 - [Shubham Yadav](https://github.com/offshujr04)
--  Anton K Sam
+- [Anton K Sam](https://github.com/antonksam)
