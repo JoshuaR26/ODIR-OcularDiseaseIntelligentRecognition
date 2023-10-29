@@ -1,8 +1,7 @@
 .ipynb_checkpoints
-imgdata
-imgdata_bp
 LogDir
-imgdata_bp
+imgdata_v1
+imgdata_v2
 imgdata_v3
 imgdata_v4
-models/ODIR_VGG16.h5
+models
