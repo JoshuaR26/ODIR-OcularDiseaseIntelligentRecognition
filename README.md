@@ -26,7 +26,6 @@ Our heartfelt gratitude goes to our faculty, Mr. Karthikeyan N, who pushed us ou
 - https://www.kaggle.com/datasets/jr2ngb/cataractdataset
 
 ## The Team:
-- Joshua S Raju, *Project Lead*
+- [Joshua S Raju](https://github.com/JoshuaR26), *Project Lead*
 - [Md Rameez Haider](https://github.com/haiderameez)
 - [Shubham Yadav](https://github.com/offshujr04)
-- [Anton K Sam](https://github.com/antonksam)
